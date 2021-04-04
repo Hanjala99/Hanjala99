@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hanjala99
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning mern stack web technologies and alos PHP, MySql.
+- 🌱 I’m currently learning mern stack web technologies and also PHP, MySql.
 - 💞️ I’m looking to collaborate on forntend design
 
 <!---
