@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hanjala99
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning mern stack web technologies and also PHP, MySql.
-- 💞️ I’m looking to collaborate on forntend design
+- 🌱 Learning mindset, focused guy.
+- 💞️ I’m looking to collaborate on forntend web design
 
 <!---
 Hanjala99/Hanjala99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
