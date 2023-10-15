@@ -1,19 +1,18 @@
 ## 👋 Hi there, I'm Md Hanjala !
 
-I'm a passionate front-end developer with more than 2 years exp and a lifelong learner. Welcome to my GitHub profile.
-
-🌟 **About Me:**
-- 🚀 Exploring the universe of web technologies.
-- 🌱 Always eager to learn and grow.
-- 📚 Love to share knowledge and help others.
+Front-End Developer with over 2 years of experience in crafting delightful web experiences. Passionate about building user-friendly and visually appealing websites, I'm committed to creating seamless user interfaces and intuitive interactions. Proficient in HTML, CSS, and JavaScript, I also love to explore modern frameworks like React and Vue.js.
 
 🚀 **Skills and Tools:**
 - 🌐 HTML, CSS, JavaScript, SCSS and Bootstrap.
-- 📱 Responsive Web Design
-- 🛠️ Front-End Frameworks ( React, Vue)
+- 🚀 Responsive Web Development
+- 🛠️ Modern Front-End Frameworks (React, Vue)
+- 📱 Mobile-First Design
+- 🌐 Cross-Browser Compatibility
+- 📦 Performance Optimization
 - 🎨 UI Design
 - 📦 Package Managers (npm, yarn)
 - 💻 Version Control (Git)
+- 🐦 Passion for Learning and Staying Updated
 
 🌐 **Connect with Me:**
 - 📧 Email: contact.hanjala@gmail.com
