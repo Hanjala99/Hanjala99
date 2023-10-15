@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Hanjala99
-- 👀 I’m interested in frontend web development
-- 🌱 Learning mindset, focused guy.
-- 💞️ I’m looking to collaborate on forntend web design
+## 👋 Hi there, I'm Md Hanjala !
 
-<!---
-Hanjala99/Hanjala99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate front-end developer with more than 2 years exp and a lifelong learner. Welcome to my GitHub profile.
+
+🌟 **About Me:**
+- 🚀 Exploring the universe of web technologies.
+- 🌱 Always eager to learn and grow.
+- 📚 Love to share knowledge and help others.
+
+🚀 **Skills and Tools:**
+- 🌐 HTML, CSS, JavaScript, SCSS and Bootstrap.
+- 📱 Responsive Web Design
+- 🛠️ Front-End Frameworks ( React, Vue)
+- 🎨 UI Design
+- 📦 Package Managers (npm, yarn)
+- 💻 Version Control (Git)
+
+🌐 **Connect with Me:**
+- 📧 Email: contact.hanjala@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/md-hanjala/
+
+Feel free to explore my repositories and connect with me. Let's code and learn together! 🚀
